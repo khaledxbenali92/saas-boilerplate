@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+*.sqlite3
+instance/
+uploads/
+.pytest_cache/
+.coverage
+dist/
+build/
+.DS_Store
+migrations/
